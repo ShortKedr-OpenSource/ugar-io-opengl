@@ -1,6 +1,8 @@
 # Ugar.io OpenGL
 
-Simplest single-player copy of Agar.io game, made with C++ and OpenGL
+Simplest single-player copy of Agar.io game, made with C++ and OpenGL.
+
+This project have another realization with Qt framework: [watch here]().
 
 ### Requirements:
 1. Visual C++ Redistributable Runtimes 2010
